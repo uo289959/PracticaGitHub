@@ -29,7 +29,7 @@ public class CarrerasController {
 		this.initView();
 		System.out.println("Linea 1");
 		System.out.println("Linea 2 rama actual");
-		System.out.println("Linea 3");
+		System.out.println("Linea 3 rama actual" );
 		System.out.println("Linea 4");
 		System.out.println("Linea 5");
 
