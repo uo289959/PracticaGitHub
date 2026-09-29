@@ -28,7 +28,7 @@ public class CarrerasController {
 		//no hay inicializacion especifica del modelo, solo de la vista
 		this.initView();
 		System.out.println("Linea 1");
-		System.out.println("Linea 2");
+		System.out.println("Linea 3");
 	}
 	/**
 	 * Inicializacion del controlador: anyade los manejadores de eventos a los objetos del UI.
